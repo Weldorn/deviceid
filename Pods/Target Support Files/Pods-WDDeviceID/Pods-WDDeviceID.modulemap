@@ -1,0 +1,6 @@
+framework module Pods_WDDeviceID {
+  umbrella header "Pods-WDDeviceID-umbrella.h"
+
+  export *
+  module * { export * }
+}
